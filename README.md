@@ -3,7 +3,7 @@ On January 17, 2014, RetroRemakes.com announced their Videogame 50 compilation, 
 [Get The Videogame 50 here](http://retroremakes.com/nostalgia/2014/03/02/the-videogame-50/).
 
 
-There is no license attached to the game or it's art assets because I really wouldn't want to claim copyright for this thing - it's public domain and in countries where that's not possible it's CC-0, WTFPL or whatever legal requirement there is for "Do whatever you want with it, just don't complain to me that it's crap".
+There is no license attached to the game or its art assets because I really wouldn't want to claim copyright for this thing - it's public domain and in countries where that's not possible it's CC-0, WTFPL or whatever legal requirement there is for "Do whatever you want with it, just don't complain to me that it's crap".
  
 # BULLBLAZER
 YEEHAW Cowboy!
